@@ -23,7 +23,7 @@ This project is a mini-website that collects and displays real-time price data f
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/skyshetty720/Crypto-tracker.git
-   cd real-time-stock-crypto-tracker
+   cd Crypto-tracker
    
    
 2. **Make sure that your use Node.js version >= v18.17.0.**
