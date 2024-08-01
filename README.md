@@ -40,4 +40,4 @@ This project is a mini-website that collects and displays real-time price data f
     npm run dev
 
 ## 🚀 About Me
-I'm a full stack developer with passionate about the new technolog.
+I'm a full stack developer with passionate about the new technology.😎💻
